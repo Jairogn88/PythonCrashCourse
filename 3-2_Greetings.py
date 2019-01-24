@@ -5,7 +5,6 @@
 
 # create list names
 names = ['jairo', 'morty', 'rick']
-
 # # printing each item in a list
 print("Looking good " + names[0].title() + "!")
 print("Wubba lubba dub dub! " + names[1].title())
