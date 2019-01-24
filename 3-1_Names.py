@@ -5,10 +5,9 @@
 # each person’s name by accessing each element in the list, one at a time   #
 
 #friendo list#
-names_list= ['bran', 'ned', 'john', 'nobody']
+names_list= ['bran', 'ned', 'john']
 
 #friendos printed#
 print(names_list[0].title())
 print(names_list[1].title())
 print(names_list[2].title())
-print(names_list[3].title())
